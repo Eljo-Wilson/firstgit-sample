@@ -12,3 +12,5 @@ Making changes from feature
 
 (checking conflict)editing in feature 
 
+
+again editing after pushing to server...
