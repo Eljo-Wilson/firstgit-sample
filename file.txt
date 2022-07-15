@@ -4,3 +4,7 @@ Checking 2nd Branch
 contents...
 
 Making changes from feature
+
+(checking conflict)editing in feature 
+
+(checking conflict)editing in master
